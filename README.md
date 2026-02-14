@@ -41,9 +41,9 @@ Some pizzas consistently underperform — potential candidates for removal or re
 Revenue & order spikes around mid‑year (July) — could reflect seasonality, holiday demand, or promotional effects.
 
 **Recommendations Based on Analysis**
-- Introduce weekend and evening combo offers to capitalize on peak demand.
-- Focus marketing and product development on Classic & Chicken categories and Large-size pizzas — align with observed preferences.
-- Review or discontinue consistently low-performing pizzas (e.g., Brie Carre, Spinach) or rework their recipes/prices.
+1. Introduce weekend and evening combo offers to capitalize on peak demand.
+2. Focus marketing and product development on Classic & Chicken categories and Large-size pizzas — align with observed preferences.
+3. Review or discontinue consistently low-performing pizzas (e.g., Brie Carre, Spinach) or rework their recipes/prices.
 
 Pizza_Sales_Analysis_pbix — Power BI file containing Report.
 sales-insights.pdf — Final insights
